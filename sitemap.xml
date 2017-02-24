@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://nohype.tech/tag/development/</loc>
+<lastmod>2017-02-25T01:27:29+02:00</lastmod>
+</url>
+<url>
+<loc>http://nohype.tech/tag/rails/</loc>
+<lastmod>2017-02-25T01:27:29+02:00</lastmod>
+</url>
+<url>
+<loc>http://nohype.tech/tag/ruby/</loc>
+<lastmod>2017-02-25T01:27:29+02:00</lastmod>
+</url>
+<url>
+<loc>http://nohype.tech/tag/sailsjs/</loc>
+<lastmod>2017-02-25T01:27:29+02:00</lastmod>
+</url>
+<url>
+<loc>http://nohype.tech/posts/mocking-trick</loc>
+<lastmod>2014-11-01T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://nohype.tech/posts/shared-examples-rspec</loc>
+<lastmod>2014-11-25T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://nohype.tech/posts/hex-sails</loc>
+<lastmod>2014-12-25T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://nohype.tech/about</loc>
+</url>
+<url>
+<loc>http://nohype.tech/</loc>
+</url>
+</urlset>

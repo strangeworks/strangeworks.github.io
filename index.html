@@ -33,6 +33,9 @@ description: "Yuriy Plugatariov personal technical blog, writing obvious stuff."
             <a href="{{ 'tag/' | relative_url }}{{ tag }}">{{ tag }}</a>
           {% endfor %}
         </div>
+        <div>
+          <a href="{{ post.url | relative_url }}#disqus_thread">0 Comments</a>
+        </div>
       </div>
     </li>
   {% endfor %}

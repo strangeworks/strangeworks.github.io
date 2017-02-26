@@ -7,7 +7,7 @@
 
 // Shades of gray
 
-$black: #000;
+$black: #272727;
 $gray-darkest: #121111;
 $gray-darker: lighten($gray-darkest, 15);
 $gray-dark: lighten($gray-darkest, 30);
@@ -29,7 +29,7 @@ $base-border-color: $gray-darker;
 
 // Page specific colors
 
-$body-background: $gray-darkest;
+$body-background: $black;
 $header-logo-color: $white;
 $header-link-color: $gray-light;
 $header-link-color-hover: $white;
